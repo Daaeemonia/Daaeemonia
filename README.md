@@ -1,3 +1,4 @@
+```
 <h1 align="center">
   <img src="https://media.giphy.com/media/j3QG0jsKMWS4O5cX4s/giphy.gif" width="40">
   SYSTEM: DAAEEMONIA_OS v2.3.7
@@ -31,6 +32,7 @@ class Neural_Daaeemonia:
         return "Multiple streams, unified purpose."
 
 core = Neural_Daaeemonia()
+```
 
 **TECH STACK**
 
@@ -63,6 +65,7 @@ core = Neural_Daaeemonia()
   "status": "Multiple_threads_executing",
   "system_load": "Optimal"
 }
+```
 
 **NETWORK INTERFACES**
 
@@ -70,10 +73,13 @@ core = Neural_Daaeemonia()
   <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FF7B00" />
 </a>
 
-
+---
 
 **"A fragmented mind sees more patterns"**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Daaeemonia&color=FF7B00&style=flat&label=SYSTEM_ACCESS_COUNT)
 
 *System: Daaeemonia_OS | Palette: Amber/Black/Blue/White | Architecture: Distributed_Consciousness*
+```
+
+**AGORA SEM EMOJI E EM TEXTO NORMAL. É SÓ COPIAR TUDO E COLAR NO README.MD**
