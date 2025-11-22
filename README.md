@@ -1,4 +1,3 @@
-```
 <h1 align="center">
   <img src="https://media.giphy.com/media/j3QG0jsKMWS4O5cX4s/giphy.gif" width="40">
   SYSTEM: DAAEEMONIA_OS v2.3.7
