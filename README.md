@@ -10,7 +10,6 @@
 
 **SYSTEM ARCHITECTURE**
 
-```python
 class Neural_Daaeemonia:
     def __init__(self):
         self.host = "Daaeemonia"
