@@ -20,7 +20,7 @@
 
 </div>
 
-##  SYSTEM METRICS
+## SYSTEM METRICS
 
 <div align="center">
 
@@ -29,7 +29,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaeemonia&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF7B00&text_color=FFFFFF)
 
 </div>
-
 ##  PROCESSING STREAK
 
 <div align="center">
