@@ -38,21 +38,27 @@
 
 </div>
 
-##  ACTIVE PROCESSES
+## ACTIVE PROCESSES
 
-```json
-{
-  "running_modules": [
-    "System_development",
-    "Reality_simulation", 
-    "Bio_digital_interface",
-    "Network_expansion"
-  ],
-  "status": "Multiple_threads_executing",
-  "system_load": "Optimal"
-}
-```
+<div align="center">
 
+`> INITIALIZING CORE MODULES...`
+`> ALL SYSTEMS: ONLINE`
+
+<br>
+
+[![SYSTEM_DEV](https://img.shields.io/badge/SYSTEM_DEV-ONLINE-FF7B00?style=for-the-badge&logo=powershell&logoColor=black&labelColor=000000)]()
+[![REALITY_SIM](https://img.shields.io/badge/REALITY_SIM-ONLINE-FF7B00?style=for-the-badge&logo=unity&logoColor=black&labelColor=000000)]()
+[![BIO_INTERFACE](https://img.shields.io/badge/BIO_INTERFACE-ONLINE-FF7B00?style=for-the-badge&logo=atom&logoColor=black&labelColor=000000)]()
+[![NETWORK_EXP](https://img.shields.io/badge/NETWORK_EXP-ONLINE-FF7B00?style=for-the-badge&logo=globe&logoColor=black&labelColor=000000)]()
+
+<br>
+
+`> STATUS: MULTIPLE_THREADS_EXECUTING`  
+`> LOAD: OPTIMAL`  
+`> MEMORY: STABLE`
+
+</div>
 ##  NETWORK INTERFACES
 
 <div align="center">
