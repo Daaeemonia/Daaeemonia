@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/j3QG0jsKMWS4O5cX4s/giphy.gif" width="40">
   SYSTEM: DAAEEMONIA_OS v2.3.7
@@ -11,7 +10,7 @@
 
 **SYSTEM ARCHITECTURE**
 
-
+```python
 class Neural_Daaeemonia:
     def __init__(self):
         self.host = "Daaeemonia"
@@ -22,17 +21,16 @@ class Neural_Daaeemonia:
     
     def active_instances(self):
         return [
-            " Developer_Node",
-            " Gaming_Module", 
-            " BioTech_Research",
-            " Creative_Cluster"
+            "Developer_Node",
+            "Gaming_Module", 
+            "BioTech_Research",
+            "Creative_Cluster"
         ]
     
     def system_status(self):
         return "Multiple streams, unified purpose."
 
 core = Neural_Daaeemonia()
-```
 
 **TECH STACK**
 
@@ -57,15 +55,14 @@ core = Neural_Daaeemonia()
 ```json
 {
   "running_modules": [
-    " System_development",
-    " Reality_simulation", 
-    " Bio_digital_interface",
-    " Network_expansion"
+    "System_development",
+    "Reality_simulation", 
+    "Bio_digital_interface",
+    "Network_expansion"
   ],
   "status": "Multiple_threads_executing",
   "system_load": "Optimal"
 }
-```
 
 **NETWORK INTERFACES**
 
