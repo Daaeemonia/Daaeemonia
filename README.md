@@ -20,7 +20,7 @@
 
 </div>
 
-## 📊 SYSTEM METRICS
+##  SYSTEM METRICS
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## 🔥 PROCESSING STREAK
+##  PROCESSING STREAK
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div>
 
-## 🎯 ACTIVE PROCESSES
+##  ACTIVE PROCESSES
 
 ```json
 {
@@ -53,7 +53,7 @@
 }
 ```
 
-## 🌐 NETWORK INTERFACES
+##  NETWORK INTERFACES
 
 <div align="center">
 
@@ -63,11 +63,10 @@
 
 </div>
 
-## 💭 SYSTEM QUOTE
+##  SYSTEM QUOTE
 
 > "A fragmented mind sees more patterns"
 
----
 
 <div align="center">
 
