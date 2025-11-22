@@ -51,6 +51,7 @@
   "status": "Multiple_threads_executing",
   "system_load": "Optimal"
 }
+```
 
 ## 🌐 NETWORK INTERFACES
 
