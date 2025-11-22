@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/j3QG0jsKMWS4O5cX4s/giphy.gif" width="40">
+  <img src="https://www.freeiconspng.com/thumbs/biohazard-symbol/biohazard-symbol-png-1.png" width="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(1deg) brightness(102%) contrast(104%);">
   DAAEEMONIA_OS v2.3.7
-  <img src="https://media.giphy.com/media/j3QG0jsKMWS4O5cX4s/giphy.gif" width="40">
+  <img src="https://www.freeiconspng.com/thumbs/biohazard-symbol/biohazard-symbol-png-1.png" width="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(1deg) brightness(102%) contrast(104%);">
 </h1>
 
 <p align="center">
