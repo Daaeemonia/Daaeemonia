@@ -30,7 +30,7 @@ class Neural_Daaeemonia:
         return "Multiple streams, unified purpose."
 
 core = Neural_Daaeemonia()
-```
+
 
 **TECH STACK**
 
