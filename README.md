@@ -1,7 +1,11 @@
 <h1 align="center">
-  <img src="https://www.freeiconspng.com/thumbs/biohazard-symbol/biohazard-symbol-png-1.png" width="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(1deg) brightness(102%) contrast(104%);">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="#FF7B00">
+    <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 5.5V7H9V5.5L3 7V9L5 9.5V14.5L3 15V17L9 18.5V17H15V18.5L21 17V15L19 14.5V9.5L21 9Z"/>
+  </svg>
   DAAEEMONIA_OS v2.3.7
-  <img src="https://www.freeiconspng.com/thumbs/biohazard-symbol/biohazard-symbol-png-1.png" width="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(1deg) brightness(102%) contrast(104%);">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="#FF7B00">
+    <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 5.5V7H9V5.5L3 7V9L5 9.5V14.5L3 15V17L9 18.5V17H15V18.5L21 17V15L19 14.5V9.5L21 9Z"/>
+  </svg>
 </h1>
 
 <p align="center">
