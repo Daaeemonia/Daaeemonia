@@ -1,82 +1,159 @@
 <h1 align="center">
   <span style="font-size: 3rem; color: #FF7B00;">☣️</span>
-  DAAEEMONIA_OS v2.3.7  
+  DAAEEMONIA_OS v3.0.0  
   <span style="font-size: 3rem; color: #FF7B00;">☣️</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&color=FF7B00&center=true&vCenter=true&width=600&lines=%5BINITIALIZING+NEURAL+NETWORK%5D;MULTIPLE+CONSCIOUSNESS+SYSTEM+ONLINE;CYBERPUNK_PROTOCOL://ACTIVE" alt="Cyberpunk Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&color=FF7B00&center=true&vCenter=true&width=700&lines=%3E+BOOTING+SYSTEM...;%3E+SYNCING+WITH+GITHUB...;%3E+MULTIPLE+CONSCIOUSNESS+ONLINE;%3E+SYSTEM+READY" />
 </p>
 
-## 🛠️ TECH STACK
+<hr>
+
+<h2 align="center"> SYSTEM IDENTITY</h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=FF7B00)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&color=FF7B00)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000&color=FF7B00)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000&color=FF7B00)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&color=FF7B00)
+<img src="https://img.shields.io/badge/USER-DAAEEMONIA-FF7B00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ROLE-CREATIVE_DEV-FF7B00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CORE-MULTI_CONSCIOUSNESS-FF7B00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF7B00?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
-## SYSTEM METRICS
+<hr>
+
+<h2>TECH STACK</h2>
 
 <div align="center">
 
-![Daaeemonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daaeemonia&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF7B00&icon_color=0066FF&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaeemonia&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF7B00&text_color=FFFFFF)
-
-</div>
-##  PROCESSING STREAK
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Daaeemonia&theme=dark&hide_border=true&background=000000&fire=FF7B00&ring=0066FF&currStreakLabel=FF7B00)
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FF7B00"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FF7B00"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF7B00"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF7B00"/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF7B00"/>
 
 </div>
 
-## ACTIVE PROCESSES
+<hr>
+
+<h2>FEATURED PROJECTS</h2>
+
+<ul>
+  <li><b>Your Project Here</b> → descrição rápida</li>
+  <li><b>Tool/System</b> → utilidade</li>
+  <li><b>Experimental Build</b> → ideia principal</li>
+</ul>
+
+<hr>
+
+<h2>SYSTEM METRICS</h2>
 
 <div align="center">
 
-`> INITIALIZING CORE MODULES...`
-`> ALL SYSTEMS: ONLINE`
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Daaeemonia&show_icons=true&theme=transparent&hide_border=true&title_color=FF7B00&icon_color=FF7B00&text_color=FFFFFF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaeemonia&layout=compact&theme=transparent&hide_border=true&title_color=FF7B00&text_color=FFFFFF"/>
+
+</div>
+
+<hr>
+
+<h2>PROCESSING STREAK</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Daaeemonia&theme=transparent&hide_border=true&ring=FF7B00&fire=FF7B00&currStreakLabel=FF7B00"/>
+
+</div>
+
+<hr>
+
+<h2>CONTRIBUTION FEED</h2>
+
+<div align="center">
+
+<img src="https://github.com/Daaeemonia/Daaeemonia/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">LIVE STATUS</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&color=FF7B00&center=true&vCenter=true&width=600&lines=%3E+TRACKING+COMMITS...;%3E+ANALYZING+CODEBASE...;%3E+SYNCING+LANGUAGES...;%3E+SYSTEM+STABLE"/>
+
+</div>
+
+<hr>
+
+<h2>ACTIVE PROCESSES</h2>
+
+<div align="center">
+
+<p><code>> INITIALIZING CORE MODULES...</code></p>
+<p><code>> ALL SYSTEMS: ONLINE</code></p>
 
 <br>
 
-[![SYSTEM_DEV](https://img.shields.io/badge/SYSTEM_DEV-ONLINE-FF7B00?style=for-the-badge&logo=powershell&logoColor=black&labelColor=000000)]()
-[![REALITY_SIM](https://img.shields.io/badge/REALITY_SIM-ONLINE-FF7B00?style=for-the-badge&logo=unity&logoColor=black&labelColor=000000)]()
-[![BIO_INTERFACE](https://img.shields.io/badge/BIO_INTERFACE-ONLINE-FF7B00?style=for-the-badge&logo=atom&logoColor=black&labelColor=000000)]()
-[![NETWORK_EXP](https://img.shields.io/badge/NETWORK_EXP-ONLINE-FF7B00?style=for-the-badge&logo=globe&logoColor=black&labelColor=000000)]()
+<img src="https://img.shields.io/badge/SYSTEM_CORE-ACTIVE-FF7B00?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GAME_DEV-ONLINE-FF7B00?style=for-the-badge&logo=unity&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/WEB_NODE-RUNNING-FF7B00?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AI_CORE-LEARNING-FF7B00?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000"/>
 
-<br>
+<br><br>
 
-`> STATUS: MULTIPLE_THREADS_EXECUTING`  
-`> LOAD: OPTIMAL`  
-`> MEMORY: STABLE`
+<p><code>> STATUS: MULTIPLE_THREADS_EXECUTING</code></p>
+<p><code>> LOAD: OPTIMAL</code></p>
+<p><code>> MEMORY: STABLE</code></p>
 
 </div>
-##  NETWORK INTERFACES
+
+<hr>
+
+<h2>NETWORK INTERFACES</h2>
 
 <div align="center">
 
-<a href="https://github.com/Daaeemonia" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FF7B00" />
+<a href="https://github.com/Daaeemonia">
+  <img src="https://img.shields.io/badge/ACCESS_GITHUB-FF7B00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
 </a>
 
 </div>
 
-##  SYSTEM QUOTE
+<hr>
 
-> "A fragmented mind sees more patterns"
-
+<h2 align="center"> SYSTEM DESCRIPTION</h2>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Daaeemonia&color=FF7B00&style=flat&label=SYSTEM_ACCESS_COUNT)
+<p>
+<span style="color:#FF7B00;"><b>NEXORA_OS</b></span> is not just a person.<br><br>
 
-*System: Daaeemonia_OS | Palette: Amber/Black/Blue/White | Architecture: Distributed_Consciousness*
+It is a <b>distributed consciousness system</b><br>
+focused on <span style="color:#FF7B00;">code</span>, <span style="color:#FF7B00;">creation</span> and <span style="color:#FF7B00;">controlled chaos</span>.<br><br>
+
+Operating in a continuous state of evolution.
+</p>
+
+</div>
+
+<hr>
+
+<h2>SYSTEM QUOTE</h2>
+
+<blockquote>
+Fragmented minds don't break — they parallelize.
+</blockquote>
+
+<hr>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Daaeemonia&color=FF7B00&style=flat&label=ACCESS_COUNT"/>
+
+<p><i>System: NEXORA_OS | Palette: Amber/Black | Mode: CYBERPUNK</i></p>
 
 </div>
