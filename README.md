@@ -37,14 +37,6 @@
 
 <hr>
 
-<h2>FEATURED PROJECTS</h2>
-
-<ul>
-  <li><b>Your Project Here</b> → descrição rápida</li>
-  <li><b>Tool/System</b> → utilidade</li>
-  <li><b>Experimental Build</b> → ideia principal</li>
-</ul>
-
 <hr>
 
 <h2>SYSTEM METRICS</h2>
