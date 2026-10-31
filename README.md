@@ -78,8 +78,6 @@
 
 <p align="center">
   <code>KERNEL ......... DAAEEMONIA_OS v3.0.0</code><br>
-  <code>PALETA ......... AMBER / BLACK</code><br>
-  <code>MODO ........... HAZARD TERMINAL</code>
 </p>
 
 <hr>
