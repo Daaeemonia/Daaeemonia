@@ -67,12 +67,14 @@
 <h2 align="center">▤ SOBRE MIM</h2>
 
 <p align="center">
-  DAAEEMONIA.<br><br>
-  Artista, escritora, dev fullstack e game dev.<br><br>
-  Código, arte e narrativa.
+  Oi, sou a <b style="color:#FF7B00;">DAAEEMONIA</b>.<br><br>
+  Faço concept art e character design, digital e tradicional.<br>
+  Escrevo roteiro, worldbuilding e ensaios.<br>
+  Programo fullstack, com mais bagagem no front, e trabalho como freelancer.<br>
+  E desenvolvo jogos 2D narrativos em Unity, Godot e GameMaker.<br><br>
+  Gosto de fazer histórias com bastante personagem negro e LGBT.<br><br>
+  Projetos que tô tocando: <b>Whisperwoods</b>, <b>Eclipse</b> e a HQ <b>Almas Desgarradas</b>.
 </p>
-
-<hr>
 
 <h2 align="center">▧ SISTEMA</h2>
 
