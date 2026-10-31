@@ -34,21 +34,15 @@
 <hr>
 
 <h2 align="center">▦ SYSTEM METRICS</h2>
-
 <p align="center">
   <img src="./profile/stats.svg" alt="Stats"/>
   <img src="./profile/top-langs.svg" alt="Langs"/>
 </p>
 
-<hr>
-
 <h2 align="center">▤ STREAK</h2>
-
 <p align="center">
   <img src="./profile/streak.svg" alt="Streak"/>
 </p>
-
-<hr>
 
 <h2 align="center">▥ ACTIVE PROCESSES</h2>
 
