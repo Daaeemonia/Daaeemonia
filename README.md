@@ -5,18 +5,14 @@
 </h1>
 
 <p align="center">
-  <code>[ ROBSCO TERMINAL v7.1 ] — CONEXÃO ESTABELECIDA</code><br>
-  <code>[ USUÁRIO: DAAEEMONIA ] — [ CLEARANCE: VERIFICADO ]</code>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&color=FF7B00¢er=true&vCenter=true&width=720&lines=%3E+INICIALIZANDO+MODULOS...;%3E+CONECTANDO+AO+NODO+GITHUB...;%3E+CARREGANDO+STACK+TECNOLOGICO...;%3E+SISTEMA+OPERACIONAL" alt="Terminal boot sequence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&color=FF7B00&center=true&vCenter=true&width=720&lines=%3E+INICIALIZANDO+MODULOS...;%3E+CONECTANDO+AO+NODO+GITHUB...;%3E+CARREGANDO+STACK...;%3E+SISTEMA+OPERACIONAL" alt="Boot sequence"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/USER-DAAEEMONIA-FF7B00?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/ROLE-CREATIVE_DEV-FF7B00?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/CORE-MULTI_CONSCIOUSNESS-FF7B00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ROLE-ARTISTA_%7C_ESCRITORA-FF7B00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_DEV-FF7B00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ROLE-GAME_DEV-FF7B00?style=for-the-badge&labelColor=000000"/>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-FF7B00?style=for-the-badge&labelColor=000000"/>
 </p>
 
@@ -31,6 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF7B00" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF7B00" alt="CSS3"/>
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=FF7B00" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FF7B00" alt="React"/>
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF7B00" alt="Git"/>
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FF7B00" alt="Linux"/>
 </p>
@@ -73,21 +70,10 @@
 <h2 align="center">▥ ACTIVE PROCESSES</h2>
 
 <p align="center">
-  <code>&gt; INITIALIZING CORE MODULES...</code><br>
-  <code>&gt; ALL SYSTEMS: ONLINE</code>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_CORE-ACTIVE-FF7B00?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" alt="System core"/>
   <img src="https://img.shields.io/badge/GAME_DEV-ONLINE-FF7B00?style=for-the-badge&logo=unity&logoColor=black&labelColor=000000" alt="Game dev"/>
   <img src="https://img.shields.io/badge/WEB_NODE-RUNNING-FF7B00?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000" alt="Web node"/>
   <img src="https://img.shields.io/badge/AI_CORE-LEARNING-FF7B00?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000" alt="AI core"/>
-</p>
-
-<p align="center">
-  <code>&gt; STATUS: MULTIPLE_THREADS_EXECUTING</code><br>
-  <code>&gt; LOAD: OPTIMAL</code><br>
-  <code>&gt; MEMORY: STABLE</code>
 </p>
 
 <hr>
@@ -105,9 +91,9 @@
 <h2 align="center">▤ SYSTEM DESCRIPTION</h2>
 
 <p align="center">
-  <b style="color:#FF7B00;">DAAEEMONIA_OS</b> é um sistema operacional de consciência distribuída.<br><br>
-  Foco em <span style="color:#FF7B00;">desenvolvimento</span>, <span style="color:#FF7B00;">criação</span> e <span style="color:#FF7B00;">engenharia de software</span>.<br><br>
-  Opera em estado contínuo de evolução e sincronização.
+  <b style="color:#FF7B00;">DAAEEMONIA</b> é artista, escritora, desenvolvedora fullstack e game developer.<br><br>
+  Produz trabalho em <span style="color:#FF7B00;">código</span>, <span style="color:#FF7B00;">narrativa</span> e <span style="color:#FF7B00;">design de sistemas</span>.<br><br>
+  <b style="color:#FF7B00;">DAAEEMONIA_OS</b> é o ambiente operacional que integra essas áreas.
 </p>
 
 <hr>
@@ -118,8 +104,7 @@
   <code>KERNEL ......... DAAEEMONIA_OS v3.0.0</code><br>
   <code>PALETA ......... AMBER / BLACK</code><br>
   <code>MODO ........... HAZARD TERMINAL</code><br>
-  <code>RADIAÇÃO ....... ESTÁVEL</code><br>
-  <code>INTEGRIDADE ..... 100%</code>
+  <code>INTEGRIDADE .... 100%</code>
 </p>
 
 <hr>
